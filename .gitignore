@@ -16,8 +16,8 @@ lerna-debug.log*
 /test-results/
 /playwright/.cache/
 
-/bin/
-/obj/
+**/bin/
+**/obj/
 
 *.suo
 *.user
